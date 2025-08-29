@@ -1,6 +1,8 @@
 ## EX NO: Cloud-account-set-up-and-services
-Name : Reshma C
-Reg no: 212223040168
+
+# Name : Reshma C
+
+# Reg no: 212223040168
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
 
